@@ -2,4 +2,4 @@
 Detects deterministic JavaScript random number generator.
 
 ## Demo
-https://rawgit.com/acerix/javascript-deterministic-random-detector/master/index.html
+https://acerix.github.io/javascript-deterministic-random-detector/
